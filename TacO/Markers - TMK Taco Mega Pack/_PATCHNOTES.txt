@@ -1,0 +1,26 @@
+Projet TACO MEGAPACK
+--------------------
+
+  GW2TacO's Author :   BoyC.2653 (boyc@scene.hu)
+  Official website :   http://gw2taco.blogspot.com
+  Version of GW2TacO : 030.1512r
+
+  TacO MegaPack page : http://webts.tmkfrench.fr/TacO.php
+  TMP Version : TMKFrench.6427 // ReActif.9251 - Menida - Yami - Eliadora - Artesio
+  Update :           12/10/2017
+  Number of POIs :   35955
+
+  Great Thanks : GW2info.net (http://gw2taco.gw2info.net)
+                 Xenophy.2716 (http://xenotaco.wixsite.com/xenotaco)
+                 Zaybiel (https://www.reddit.com/r/Guildwars2/comments/62wk87/gw2_taco_markers_for_sab_tribulation_mode/)
+
+  .--------------------.
+ /    INFORMATIONS    /
+'--------------------'
+
+  This patchnote is the first of the English version.
+  Take care not to mix files coming from the French version with this version.
+  There are changes to some important parts.
+
+
+** End of File **
