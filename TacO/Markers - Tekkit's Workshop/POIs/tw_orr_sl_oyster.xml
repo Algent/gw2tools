@@ -1,0 +1,44 @@
+<OverlayData>
+<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+  <MarkerCategory name="tw_zone" DisplayName="Zones">
+    <MarkerCategory name="tw_orr_sl" DisplayName="Orr - Siren's Landing">
+<MarkerCategory name="tw_orr_sl_oyster" DisplayName="Orrian Oysters" iconSize="0.5" heightOffset="0.0" behavior="7" iconFile="Data\tw_zone_orr_sl_oyster.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+	<POIs>
+		<POI MapID="1203" xpos="99.8722" ypos="3.28682" zpos="35.5407" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="0TZQAZrhyEaCUe3b+5g09g=="/>
+		<POI MapID="1203" xpos="20.8777" ypos="1.12395" zpos="35.4358" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="ombqdObnxkGEoM0IC7VuEg=="/>
+		<POI MapID="1203" xpos="-44.3935" ypos="-0.182143" zpos="37.2036" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="+zQzBEUA+06YHgBVX0azFA=="/>
+		<POI MapID="1203" xpos="-59.9482" ypos="-0.0812313" zpos="31.9996" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="06EJb1K6ykiIAB+H/s9suQ=="/>
+		<POI MapID="1203" xpos="-194.024" ypos="8.84734" zpos="-21.6101" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="U35H6fK1l0Ssww0GD9TTtQ=="/>
+		<POI MapID="1203" xpos="-452.757" ypos="39.936" zpos="-3.68155" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="P7CLFbCo+0OiTISLTgH3ZQ=="/>
+		<POI MapID="1203" xpos="-666.679" ypos="54.7738" zpos="-122.729" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="JbniVNQaGUesYcou2dy38Q=="/>
+		<POI MapID="1203" xpos="501.883" ypos="4.04388" zpos="122.579" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="minqnPgCr0moDub8Abw9jA=="/>
+		<POI MapID="1203" xpos="507.638" ypos="2.38833" zpos="147.219" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="XkJ9Tc++dku8vTO1kBu4kw=="/>
+		<POI MapID="1203" xpos="563.882" ypos="-41.0167" zpos="-123.945" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="TO2InwvWY0GjdPrsqj8Fqg=="/>
+		<POI MapID="1203" xpos="-919.045" ypos="93.6253" zpos="196.809" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="FHxeLnimVkK8KMsK6Z1sPw=="/>
+		<POI MapID="1203" xpos="-524.782" ypos="95.7904" zpos="173.666" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="vcjb9cK24kuY30I87H9NGw=="/>
+		<POI MapID="1203" xpos="-615.317" ypos="127.801" zpos="148.327" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="XK9NxZ8mB0mAN8jdiQ+r8A=="/>
+		<POI MapID="1203" xpos="352.127" ypos="9.46863" zpos="-78.0489" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="aohovBxUK02N8p9BWRCcGQ=="/>
+		<POI MapID="1203" xpos="582.27" ypos="-2.14738" zpos="-217.868" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="Ex/P1sgXpE2dPlcLcGs1Jw=="/>
+		<POI MapID="1203" xpos="166.229" ypos="-0.438749" zpos="208.171" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="L+/+F96WQEiQ5U6sLpW+3g=="/>
+		<POI MapID="1203" xpos="-47.554" ypos="9.18064" zpos="9.82926" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="YkOiKBMHokCDzD8xanIMVg=="/>
+		<POI MapID="1203" xpos="-110.89" ypos="86.9737" zpos="172.9" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="OobEl8PmgkeI7ozbgGEDvg=="/>
+		<POI MapID="1203" xpos="-420.301" ypos="2.48609" zpos="-216.913" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="+z8QuiOcoE68YgIZZqn1Ag=="/>
+		<POI MapID="1203" xpos="-357.828" ypos="11.5184" zpos="-115.626" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="dTb7ZL7xJUyYJRz3jTdgNw=="/>
+		<POI MapID="1203" xpos="-340.206" ypos="6.93283" zpos="-59.8223" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="GTiQDmgREUCGzv8wnnl4bA=="/>
+		<POI MapID="1203" xpos="-332.819" ypos="22.9528" zpos="-38.253" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="ER0BTDyWeE6FZtd/pOyEfQ=="/>
+		<POI MapID="1203" xpos="-705.423" ypos="43.9272" zpos="-277.942" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="TaQISoUqwEuURNGuWrjijA=="/>
+		<POI MapID="1203" xpos="-721.323" ypos="55.3107" zpos="-89.8786" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="x1WKHZSi+02mJ1J4QoIxjw=="/>
+		<POI MapID="1203" xpos="-884.125" ypos="101.498" zpos="268.602" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="UM+ycY+vFEqfntchXkv9XA=="/>
+		<POI MapID="1203" xpos="712.589" ypos="-34.4664" zpos="293.223" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="i0j3ouzA3kumEtBqbp4M8Q=="/>
+		<POI MapID="1203" xpos="148.96" ypos="-30.5811" zpos="117.023" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="LKlZvu1lL0SuksUs5j672Q=="/>
+		<POI MapID="1203" xpos="149.438" ypos="45.6967" zpos="291.662" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="jfg5VqladkGT+1gVsF0D3w=="/>
+		<POI MapID="1203" xpos="-587.648" ypos="66.9155" zpos="-60.1625" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="9Ie1hVlunUKxYLjHpfqgbw=="/>
+		<POI MapID="1203" xpos="403.377" ypos="-0.134023" zpos="-112.296" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="XdQwytuKW0iKCRUytMzRQQ=="/>
+		<POI MapID="1203" xpos="619.326" ypos="-6.85515" zpos="273.767" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="rS3JdDlGzE2WheydXF0s1g=="/>
+		<POI MapID="1203" xpos="-853.463" ypos="117.475" zpos="102.916" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="fYa/nmcdPkiPDJfylKCGtQ=="/>
+		<POI MapID="1203" xpos="-981.492" ypos="119.524" zpos="64.9591" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_oyster" GUID="0aWzuAaGp0+yL80HbYbK+g=="/>
+	</POIs>
+</OverlayData>

@@ -1,0 +1,15 @@
+<OverlayData>
+<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+  <MarkerCategory name="tw_zone" DisplayName="Zones">
+    <MarkerCategory name="tw_orr_sl" DisplayName="Orr - Siren's Landing">
+<MarkerCategory name="tw_orr_sl_merchant" DisplayName="Coffer Merchants" iconSize="0.5" heightOffset="3.5" iconFile="Data\tw_zone_orr_sl_merchant.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+	<POIs>
+		<POI MapID="1203" xpos="-648.574" ypos="24.2521" zpos="-333.345" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_merchant" GUID="sFH4QnPcFEupyaWiet/cDQ=="/>
+		<POI MapID="1203" xpos="-885.598" ypos="90.8785" zpos="214.566" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_merchant" GUID="L0TZXJB8K0is/VfQs4BF9A=="/>
+		<POI MapID="1203" xpos="80.4445" ypos="34.1656" zpos="283.715" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_merchant" GUID="GwyGPJ+7gUCgsuFBKinyVQ=="/>
+		<POI MapID="1203" xpos="-242.352" ypos="71.3422" zpos="100.628" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_merchant" GUID="0kWVWPRXoUShk4N6t6UTkA=="/>
+	</POIs>
+</OverlayData>

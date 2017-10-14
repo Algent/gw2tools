@@ -1,0 +1,56 @@
+<OverlayData>
+<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+  <MarkerCategory name="tw_pof" DisplayName="Path of Fire">
+    <MarkerCategory name="tw_pof_treasurehunt" DisplayName="Treasure Hunt">
+      <MarkerCategory name="tw_pof_treasurechest" DisplayName="Treasure Chest" iconSize="0.7" heightOffset="0.0" iconFile="Data\tw_pof_treasurechest.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<POI MapID="1210" xpos="988.734" ypos="58.9497" zpos="-44.3324" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="IPGYhK3Ke0+J1dP2XpK4dw=="/>
+		<POI MapID="1210" xpos="-183.045" ypos="58.1289" zpos="523.508" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="ozpGX8VhFUO5qLrkLrCuMA=="/>
+		<POI MapID="1210" xpos="-1267.62" ypos="1.45464" zpos="-21.3907" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="mdzcYfohDUmVuBeqDrLtQw=="/>
+		<POI MapID="1210" xpos="1076.23" ypos="178.933" zpos="416.496" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="irPqFb3t70mO9YO52eiYhw=="/>
+		<POI MapID="1210" xpos="1252.22" ypos="119.551" zpos="110.888" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="6bDMcqSy3UmMWoBAarGrxg=="/>
+		<POI MapID="1210" xpos="-366.329" ypos="52.6706" zpos="665.102" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="D3460az7+0iePmfjZ7jGvA=="/>
+		<POI MapID="1210" xpos="-1061.59" ypos="58.4908" zpos="147.587" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="NkxbcSsIM0ukg3J544cSXw=="/>
+		<POI MapID="1210" xpos="548.267" ypos="26.9639" zpos="302.263" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="FpQ1FCD9O06MzztZNFT7Sg=="/>
+		<POI MapID="1210" xpos="-406.134" ypos="52.6631" zpos="668.423" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="2nPnhmYiPEaykFCvUUM+1A=="/>
+		<POI MapID="1210" xpos="106.237" ypos="43.3905" zpos="242.834" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="FPNsQRG8pUqwbf8bKQ3Qmg=="/>
+		<POI MapID="1210" xpos="-1157.38" ypos="6.33209" zpos="54.4649" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="+dtHm8gYf0eBNlpvyS3jmg=="/>
+		<POI MapID="1210" xpos="4.36289" ypos="72.1534" zpos="458.691" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="Cda0M4lznU+XW4Jbzaf+vw=="/>
+		<POI MapID="1210" xpos="20.45" ypos="10.5293" zpos="-117.563" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="o9KETCC8SUGV9ZceK2K0+g=="/>
+		<POI MapID="1210" xpos="-953.428" ypos="8.67365" zpos="-217.369" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="3nSgdCrdMk2MZ5byr/CEGw=="/>
+		<POI MapID="1210" xpos="-1037.54" ypos="20.1945" zpos="537.91" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="G2I3ibJyzE+YpirsRU+Vhg=="/>
+		<POI MapID="1210" xpos="430.406" ypos="134.608" zpos="499.55" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="WEswL7CfuUOBO+FtUDvQVw=="/>
+		<POI MapID="1210" xpos="-753.366" ypos="14.1227" zpos="519.09" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="j0Z+G9npGUOkLGWC5nNKug=="/>
+		<POI MapID="1210" xpos="573.199" ypos="100.004" zpos="538.968" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="/CwnvDCSqEO95mjmvxpDIw=="/>
+		<POI MapID="1210" xpos="196.507" ypos="36.028" zpos="-7.50374" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="1HDmhX5gzUmXd0z71ZmtOQ=="/>
+		<POI MapID="1210" xpos="-737.98" ypos="11.4231" zpos="310.47" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="DXWyYw/MqEGYY+qRTilKxw=="/>
+		<POI MapID="1210" xpos="55.4532" ypos="16.1638" zpos="76.5535" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="ePodJ8xG+kOlYSKrrj2Yow=="/>
+		<POI MapID="1210" xpos="-98.4292" ypos="56.8807" zpos="548.93" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="X647eWsjlkOEgDg62b78XQ=="/>
+		<POI MapID="1210" xpos="-1022.87" ypos="2.46312" zpos="8.15992" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="GOp887ti/06a6euvg5n7Dw=="/>
+		<POI MapID="1210" xpos="-1019.17" ypos="1.80004" zpos="-23.5202" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="m4Jh34NBAEucNsQGnPrRzw=="/>
+		<POI MapID="1210" xpos="-658.89" ypos="49.9247" zpos="649.792" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="nUL/mSv/KUaeG1yhfQqflA=="/>
+		<POI MapID="1210" xpos="-343.947" ypos="57.2354" zpos="519.512" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="ktkSn0miekSU/+VSDgHpTw=="/>
+		<POI MapID="1210" xpos="-91.5864" ypos="21.2113" zpos="297.487" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="ZpI3n4iQRU25j7UaxmZlNw=="/>
+		<POI MapID="1210" xpos="-1195.85" ypos="1.03169" zpos="-24.6334" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="BVABMGOgdkatE/JcrqtGyQ=="/>
+		<POI MapID="1210" xpos="-949.717" ypos="29.4904" zpos="106.61" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="kyVbz0m7gUS79uEDdD/EMQ=="/>
+		<POI MapID="1210" xpos="-1028.06" ypos="46.0881" zpos="279.965" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="juoVPOYiek+M/fUjPZPE4A=="/>
+		<POI MapID="1210" xpos="-472.123" ypos="12.2027" zpos="535.125" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="DzFIY2HKFEar1Y924VTSaA=="/>
+		<POI MapID="1210" xpos="-184.338" ypos="4.44661" zpos="162.689" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="T7MyHPuxlEqmKASLymrJzA=="/>
+		<POI MapID="1210" xpos="-983.239" ypos="35.6494" zpos="141.882" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="23BN+35PekGgtJ/qlYo3HQ=="/>
+		<POI MapID="1210" xpos="-1163.42" ypos="0.75865" zpos="-158.436" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="ApS9iZrqo0+oHYsnbEmnsQ=="/>
+		<POI MapID="1210" xpos="-943.611" ypos="1.49862" zpos="-67.1569" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="OCZGNoJpmUSJ10yBA/qV+Q=="/>
+		<POI MapID="1210" xpos="-734.298" ypos="2.51549" zpos="571.961" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="PlMpYvYPfEm8/zgnBWa8Kg=="/>
+		<POI MapID="1210" xpos="-568.797" ypos="4.43285" zpos="454.749" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="ttAGT8RW1U65kgA7xbU5QQ=="/>
+		<POI MapID="1210" xpos="-181.67" ypos="30.5726" zpos="398.482" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="mawaD5FPb0ablepR3ObCiA=="/>
+		<POI MapID="1210" xpos="-39.1464" ypos="5.60484" zpos="35.3764" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="BnNjFZd0r02SS0yokxXryA=="/>
+		<POI MapID="1210" xpos="-1176.97" ypos="21.8283" zpos="462.548" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="qq6zf4nid0WXhU0JjaFAgw=="/>
+		<POI MapID="1210" xpos="-338.788" ypos="47.4061" zpos="563.083" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="1RZf3P6VaESWoD8tHJECOg=="/>
+		<POI MapID="1210" xpos="-900.059" ypos="14.2685" zpos="366.399" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="7uk+KqFXcECTeCVzp4gnPw=="/>
+		<POI MapID="1210" xpos="-66.7911" ypos="53.8548" zpos="693.203" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="/HU/UpQgAEye3qi6mbjykA=="/>
+		<POI MapID="1210" xpos="23.4414" ypos="14.1086" zpos="162.611" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="cWjOLg9XYkGntuzfAplKDw=="/>
+		<POI MapID="1210" xpos="45.5542" ypos="6.76715" zpos="-43.2636" type="tw_guides.tw_pof.tw_pof_treasurehunt.tw_pof_treasurechest" GUID="8552HHUVZ0iHufI8FioVKA=="/>
+		</POIs>
+</OverlayData>

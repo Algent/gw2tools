@@ -1,0 +1,16 @@
+<OverlayData>
+<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+  <MarkerCategory name="tw_zone" DisplayName="Zones">
+    <MarkerCategory name="tw_orr_sl" DisplayName="Orr - Siren's Landing">
+<MarkerCategory name="tw_orr_sl_charge" DisplayName="Skill 4 Charge Spots" iconSize="0.5" heightOffset="0.0" iconFile="Data\tw_zone_orr_sl_charge.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+	<POIs>
+		<POI MapID="1203" xpos="-28.9834" ypos="0.837072" zpos="-217.694" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_charge" GUID="WNBi6j/810CCH4ZmQFVa9A=="/>
+		<POI MapID="1203" xpos="-778.554" ypos="50.104" zpos="-240.511" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_charge" GUID="7F/EhmFVBEaRJpYH1BMoQQ=="/>
+		<POI MapID="1203" xpos="-892.108" ypos="92.075" zpos="197.636" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_charge" GUID="D0wRoVoLik6pWLX6Vzowkw=="/>
+		<POI MapID="1203" xpos="-62.0473" ypos="27.8621" zpos="147.08" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_charge" GUID="RmqdZ5oq00+IyBcsXN5NSA=="/>
+		<POI MapID="1203" xpos="-552.41" ypos="40.7922" zpos="-292.406" type="tw_guides.tw_zone.tw_orr_sl.tw_orr_sl_charge" GUID="SMtquPQgzEeOe4FIa+e25w=="/>
+	</POIs>
+</OverlayData>
