@@ -326,3 +326,8 @@ notepad textbox:selection:hover
 	height:32px;
 	background-color:none;
 }
+
+#startnewsection
+{
+	visibility:hidden;
+}

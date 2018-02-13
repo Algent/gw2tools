@@ -26,8 +26,10 @@
       <label id="" text="Trail Editing"/>
       <button id="starttrail" text="Start New Trail"/>
       <button id="pausetrail" text="Pause Recording"/>
+      <button id="startnewsection" text="Resume New Section"/>
       <button id="deletelastsegment" text="Delete Last Segment"/>
       <button id="savetrail" text="Export Trail"/>
+      <button id="loadtrail" text="Import Trail"/>
     </box>
   </guitemplate>
   <guitemplate id="notepad" class="template">
