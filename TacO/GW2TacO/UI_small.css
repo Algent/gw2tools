@@ -20,6 +20,15 @@ GW2TacO
 	font:menomonia_normal;
 }
 
+#trail
+{
+	width:100%;
+	height:100%;
+	background:#ff0000;
+	opacity:1.0f;
+	font:menomonia_normal;
+}
+
 #compass
 {
 	width:100%;

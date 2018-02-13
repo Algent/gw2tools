@@ -4,6 +4,7 @@
     <GW2TacO id="tacoroot">
       <GW2Dialog id="gw2dialog"/>
       <GW2RangeDisplay id="ranges"/>
+      <GW2TrailDisplay id="trail"/>
       <GW2TacticalDisplay id="tactical"/>
       <GW2TacticalCompass id="compass"/>
       <TimerDisplay id="locationaltimer"/>
@@ -22,6 +23,11 @@
       <button id="changedefaultmarkertype" text="Change Default Marker Type"/>
       <label id="markertype" text=""/>
       <button id="changemarkertype" text="Change Marker Type"/>
+      <label id="" text="Trail Editing"/>
+      <button id="starttrail" text="Start New Trail"/>
+      <button id="pausetrail" text="Pause Recording"/>
+      <button id="deletelastsegment" text="Delete Last Segment"/>
+      <button id="savetrail" text="Export Trail"/>
     </box>
   </guitemplate>
   <guitemplate id="notepad" class="template">
